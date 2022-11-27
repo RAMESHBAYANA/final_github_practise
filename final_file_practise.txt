@@ -12,7 +12,11 @@ Hi iam in git and trying to update from vs code terminal.
 
 Hi iam trying to update from txt file. 
 
+<<<<<<< HEAD
 Hi iam in 15 th line and trying to update the changes made in txt file in remote to github.
+=======
+Hi iam in 15 th line and trying to update changes made in git hub.
+>>>>>>> e0a9ff5ce57fdb3b20b9bf20626d166dec71de30
 
 
 
