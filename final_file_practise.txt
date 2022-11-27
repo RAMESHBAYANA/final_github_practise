@@ -2,4 +2,6 @@ Hi iam in vs code now and trying to update file from vs bash after typing this m
 
 Hi iam in notepad now and trying to update file from git terminal. 1940 hrs.
 
+Hi iam in notepad now and trying to update file from vs code terminal 1942hrs.
+
 
