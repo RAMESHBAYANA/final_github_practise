@@ -9,3 +9,7 @@ Hi iam in git hub now and trying to update file in local terminal 1946hrs.
 hi iam in notepad now.
 
 Hi iam in git and trying to update from vs code terminal.
+
+Hi iam finally trying to update from git terminal
+
+
