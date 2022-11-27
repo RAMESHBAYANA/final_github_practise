@@ -12,6 +12,7 @@ Hi iam in git and trying to update from vs code terminal.
 
 Hi iam trying to update from txt file. 
 
+Hi iam in 15 th line and trying to update changes made in git hub.
 
 
 
