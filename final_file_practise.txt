@@ -10,6 +10,8 @@ hi iam in notepad now.
 
 Hi iam in git and trying to update from vs code terminal.
 
+Hi iam trying to update from txt file. 
+
 
 
 
