@@ -1,2 +1,5 @@
 Hi iam in vs code now and trying to update file from vs bash after typing this msg. 1936hrs.
 
+Hi iam in notepad now and trying to update file from git terminal. 1940 hrs.
+
+
